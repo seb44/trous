@@ -5,7 +5,7 @@ blah
 blah
 blah
 Je m'appelle Bard Leni.
-Hier soir, je suis allé à Fort de France et j'y ai rencontré toto.
+Hier soir, je suis allé à Q et j'y ai rencontré X.
 blah
 blah
 blah
@@ -17,7 +17,7 @@ blah
 blah
 blah
 En chemin, tata m'a cogné la tête avant de me voler mon fut.
-Depuis, je ne sais plus coder qu'en cobol.
+Depuis, je ne sais plus coder qu'en C.
 blah
 blah
 blah
